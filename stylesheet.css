@@ -1,0 +1,24 @@
+body {
+    background-color: blue;
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+.container {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+img {
+    max-width: 250px;
+    max-height: 300px;
+}
+
+.centered {
+    text-align: center;
+}
